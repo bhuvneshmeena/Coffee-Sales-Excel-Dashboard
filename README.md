@@ -66,6 +66,5 @@ The dashboard includes the following visual elements:
 The Coffee Sales Dashboard effectively visualizes sales performance, helping businesses track trends, identify top-performing products, and analyze customer purchases. This project demonstrates the power of Excel in business intelligence and sales analysis.
 
 ---
-**Author:** [Your Name]  
-**Date:** [Project Completion Date]
+**Author:** Bhuvnesh Meena
 
